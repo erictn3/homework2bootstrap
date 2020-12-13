@@ -1,0 +1,29 @@
+body {
+  background-image: url("../images/cube-background.jpg");
+
+}
+
+.square {
+  background-color: beige;
+  margin: 100px 150px 250px;
+  padding:60px;
+
+
+}
+
+/* text-aline center */
+.square h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+#sky-image {
+  /* Positioning */
+  float: left;
+
+  /* Box-model */
+  width: 200px;
+  margin: 0 20px 10px 0;
+}
